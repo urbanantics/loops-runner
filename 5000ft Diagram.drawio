@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T23:25:43.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="r2PsGFNbommLZ7YNRK6_" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T15:36:01.924Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="v5im2N7ZCQa1Z4iU4Nmi" version="14.4.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1308" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -85,9 +85,6 @@
         <mxCell id="2040" value="Applications" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.mobile_services;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
           <mxGeometry x="106.25" y="340" width="32.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bkJ5QVPtrmcpE-_TRBQi-2094" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bkJ5QVPtrmcpE-_TRBQi-2093" target="2042" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="bkJ5QVPtrmcpE-_TRBQi-2093" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="232.5" y="210" width="140" height="490" as="geometry" />
         </mxCell>
@@ -99,9 +96,6 @@
             <mxPoint x="167" y="361" as="sourcePoint" />
             <mxPoint x="247" y="361" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="bkJ5QVPtrmcpE-_TRBQi-2095" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1.023;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2019" target="2019" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bkJ5QVPtrmcpE-_TRBQi-2096" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="412.5" y="210" width="140" height="490" as="geometry" />
@@ -160,22 +154,22 @@
             <mxPoint x="973" y="491.78999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m8vULYC1USQ0yAMNEUc6-2080" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" vertex="1" parent="1">
+        <mxCell id="m8vULYC1USQ0yAMNEUc6-2080" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" parent="1" vertex="1">
           <mxGeometry x="90" y="720" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="m8vULYC1USQ0yAMNEUc6-2081" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" vertex="1" parent="1">
+        <mxCell id="m8vULYC1USQ0yAMNEUc6-2081" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" parent="1" vertex="1">
           <mxGeometry x="277.5" y="720" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="m8vULYC1USQ0yAMNEUc6-2082" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" vertex="1" parent="1">
+        <mxCell id="m8vULYC1USQ0yAMNEUc6-2082" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" parent="1" vertex="1">
           <mxGeometry x="458.75" y="720" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="m8vULYC1USQ0yAMNEUc6-2083" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" vertex="1" parent="1">
+        <mxCell id="m8vULYC1USQ0yAMNEUc6-2083" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" parent="1" vertex="1">
           <mxGeometry x="640" y="720" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="m8vULYC1USQ0yAMNEUc6-2084" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" vertex="1" parent="1">
+        <mxCell id="m8vULYC1USQ0yAMNEUc6-2084" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" parent="1" vertex="1">
           <mxGeometry x="826.5" y="720" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="m8vULYC1USQ0yAMNEUc6-2085" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" vertex="1" parent="1">
+        <mxCell id="m8vULYC1USQ0yAMNEUc6-2085" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" parent="1" vertex="1">
           <mxGeometry x="1007" y="720" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
